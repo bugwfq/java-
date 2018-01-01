@@ -1,0 +1,7 @@
+create  创造
+该包总结三种线程的创建方法
+
+
+1.实现Runnable接口
+2.继承Thread类
+3.实现callable接口

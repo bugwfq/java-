@@ -1,0 +1,6 @@
+java.io.FileNotFoundException: src\sdf\ccc.sdfjl (系统找不到指定的路径。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at day170526.ExceptionTest2.fun1(ExceptionTest2.java:21)
+	at day170526.ExceptionTest2.main(ExceptionTest2.java:14)

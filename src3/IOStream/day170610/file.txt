@@ -1,0 +1,16 @@
+src3\day170606\test\a.txt
+src3\day170606\test\Hw6.java
+src3\day170606\test\ObjectInputStreamTest.java
+src3\day170606\test\ObjectOutputStreamTest.java
+src3\day170606\test\PrintStreamTest.java
+src3\day170606\test\PrintWriterTest.java
+src3\day170606\test\student.txt
+src3\day170606\test\User.java
+src3\day170606\test\user.txt
+src3\day170606\work\Computer.java
+src3\day170606\work\computer.txt
+src3\day170606\work\MyTest.java
+src3\day170606\work\Person.java
+src3\day170606\work\person.txt
+src3\day170606\work\PersonTest.java
+src3\day170606\work\User.java
